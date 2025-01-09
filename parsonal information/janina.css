@@ -3,4 +3,15 @@ div{
     padding: 5px;
     height: 50px;
     margin: 10px;
+    image-orientation: ;
+}
+img
+{
+    margin-inline-start: 30px;
+    background-color: chocolate;
+    padding: 20px;
+    margin: 40px;
+}
+ul{
+    display: inlinevidio 1;
 }
